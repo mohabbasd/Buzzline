@@ -3,9 +3,9 @@ import AppLayout from '../components/layout/AppLayout'
 
 const Home = () => {
   return (
-    <h1>
+    <div>
       Home
-    </h1>
+    </div>
   )
 }
 
